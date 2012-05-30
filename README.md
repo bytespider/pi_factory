@@ -2,7 +2,7 @@
 
 A set of tools for playing with the Raspberry Pi
 
-Released under the MIT. Please see LICENSE in the project root folder for more
+Released under the MIT. Please see LICENCE in the project root folder for more
 information.
 
 
