@@ -21,6 +21,12 @@ insert the SD card before running `./sdflash.sh`
 Be sure to heed the warnings.
 
 
+## To do
+
+- Auto detect sd card insertion. This should make the script friendlier for beginers
+- Download distributions
+
+
 ## Authors
 
   * Rob Griffiths (rob AT bytespider DOT eu) [@bytespider](https://twitter.com/bytespider)
